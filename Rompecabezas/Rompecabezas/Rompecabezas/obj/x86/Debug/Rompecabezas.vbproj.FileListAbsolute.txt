@@ -1,0 +1,48 @@
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\bin\Debug\Rompecabezas.exe
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\bin\Debug\Rompecabezas.pdb
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\bin\Debug\Rompecabezas.xml
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\Rompecabezas.principal.resources
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\Rompecabezas.Resources.resources
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\Rompecabezas.exe
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\Rompecabezas.xml
+C:\Users\ARGOS\AppData\Local\Temporary Projects\Rompecabezas\obj\x86\Debug\Rompecabezas.pdb
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.exe
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.xml
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.pdb
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.exe
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.pdb
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.xml
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.principal.resources
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.Resources.resources
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ARGOS\Desktop\Romprcabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.Secundario.resources
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.exe
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.xml
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.pdb
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.exe
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.pdb
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.xml
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.principal.resources
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.Resources.resources
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.Secundario.resources
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ARGOS\Desktop\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.exe
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.xml
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.exe
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\bin\Debug\Rompecabezas.xml
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.principal.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.Resources.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.Secundario.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.vbproj.GenerateResource.Cache
+G:\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.exe
+G:\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.xml
+G:\Rompecabezas\Rompecabezas\Rompecabezas\obj\x86\Debug\Rompecabezas.pdb
