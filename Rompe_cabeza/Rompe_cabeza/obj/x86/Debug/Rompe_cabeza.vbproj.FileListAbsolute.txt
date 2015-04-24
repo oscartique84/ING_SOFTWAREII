@@ -1,0 +1,21 @@
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.vbproj.GenerateResource.Cache
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\Desktop\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\Desktop\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\Desktop\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+G:\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+G:\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+G:\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+G:\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+G:\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+G:\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+G:\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+G:\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+G:\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.vbproj.GenerateResource.Cache
