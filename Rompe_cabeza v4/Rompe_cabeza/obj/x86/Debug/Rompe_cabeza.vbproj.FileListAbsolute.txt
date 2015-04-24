@@ -1,0 +1,81 @@
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.vbproj.GenerateResource.Cache
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\Documents\Visual Studio 2010\Projects\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\Desktop\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\Desktop\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\Desktop\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.vbproj.GenerateResource.Cache
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.vbproj.GenerateResource.Cache
+C:\Users\jesanchez\Desktop\Johnny Riveros___\Nueva carpeta\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.ayuda.resources
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.ayuda.resources
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+C:\Users\Administrador\Desktop\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.vbproj.GenerateResource.Cache
+F:\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+F:\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+F:\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\OneDrive\Ing.Sof_II\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\OneDrive\Ing.Sof_II\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.ayuda.resources
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ARGOS\Desktop\juego presentado\segunda version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.ayuda.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+C:\Users\ideqs\OneDrive\Ing.Sof_II\tercera version\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.vbproj.GenerateResource.Cache
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.exe
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.xml
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.pdb
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.exe
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.pdb
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\bin\Debug\Rompe_cabeza.xml
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.ayuda.resources
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Form1.resources
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\Rompe_cabeza.Resources.resources
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Ultima Clase\Rompe_cabeza\Rompe_cabeza\obj\x86\Debug\GenerateResource.write.1.tlog
